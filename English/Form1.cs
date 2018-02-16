@@ -199,7 +199,7 @@ namespace English
 
         #region SQL Server Connection
 
-        private readonly SqlConnection _connection = new SqlConnection(Assets.CoNsTr);
+        private readonly SqlConnection _connection = new SqlConnection(Assets.Co_N__sT___r);
 
         private void ChkCon()
         {
